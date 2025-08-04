@@ -5,7 +5,8 @@
 
   <div align="center">
     
-<img width="1081" height="992" alt="AppScreenshot" src="https://github.com/user-attachments/assets/3999e283-a80c-4594-8fde-f122a56d5b9f" />
+  <img width="1081" height="992" alt="ApppScreenshot" src="https://github.com/user-attachments/assets/2d17bd02-c3df-46da-bc9c-deb0f0c534f5" />
+
   
   *a screenshot of the app*
 </div>
