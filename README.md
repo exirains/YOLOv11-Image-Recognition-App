@@ -1,11 +1,11 @@
 <div align="center">
   <h1>🖥️ YOLOv11 Image Recognition App</h1>
-  <p>Real-time object detection with camera integration and image processing</p>
+  <p>Real time object detection with camera integration and image processing</p>
 
   <div align="center">
   <img width="800" height="750" alt="AppScreenshot" src="https://github.com/user-attachments/assets/d1acd68b-ac90-44fb-944a-8c7c7665d6e4" />
     
-  *Sleek interface with live camera detection*
+  *a screenshot of the app*
 </div>
 
 <div align="left">
@@ -41,7 +41,7 @@
 git clone https://github.com/exirains/YOLOv11-Image-Recognition-App.git
 
 # Install dependencies
-pip install pyqt5 opencv-python pillow numpy ultralytics
+pip install ultralytics pyqt5 opencv-python pillow numpy
 
 # Run application
 python yolo_app.py
