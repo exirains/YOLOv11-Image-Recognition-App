@@ -2,9 +2,11 @@
   <h1>🖥️ YOLOv11 Image Recognition App</h1>
   <p>Real time object detection with camera integration and image processing</p>
 
+
   <div align="center">
-  <img width="800" height="750" alt="AppScreenshot" src="https://github.com/user-attachments/assets/d1acd68b-ac90-44fb-944a-8c7c7665d6e4" />
     
+<img width="1081" height="992" alt="AppScreenshot" src="https://github.com/user-attachments/assets/3999e283-a80c-4594-8fde-f122a56d5b9f" />
+  
   *a screenshot of the app*
 </div>
 
