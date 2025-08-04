@@ -9,7 +9,9 @@
 </div>
 
 <div align="left">
-## 🌟 Features
+  
+**_🌟 Features_**
+  
 **🎥 Camera Mode**  
 - Real-time object detection using webcam  
 - Clean resource management  
